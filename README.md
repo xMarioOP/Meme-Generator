@@ -1,9 +1,40 @@
-# React + Vite
+# Meme Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is part of the **React** course from [Scrimba](https://scrimba.com/). It is a simple application that allows users to generate memes by adding custom text to predefined templates.
 
-Currently, two official plugins are available:
+## Technologies Used
+- **React** (frontend framework)
+- **Vite** (bundler for fast development)
+- **ESLint** (for code linting)
+- **Babel** (used by Vite for Fast Refresh with `@vitejs/plugin-react`)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# Meme-Generator
+## Features
+- Select meme templates from a predefined list.
+- Add top and bottom text to the meme.
+- Responsive design, works on both desktop and mobile.
+
+## Setup Instructions
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/meme-generator.git
+Navigate to the project folder:
+bash
+Copiar código
+cd meme-generator
+Install the dependencies:
+bash
+Copiar código
+npm install
+Start the development server:
+bash
+Copiar código
+npm run dev
+How to Use
+Select a meme template from the dropdown.
+Add your custom text in the input fields.
+Click "Generate Meme" to see the result.
+Contributing
+Feel free to fork the repository and make contributions. All kinds of feedback are welcome!
+
+This project was built as part of the Scrimba React course. Special thanks to the Scrimba team for providing such a great learning platform!
