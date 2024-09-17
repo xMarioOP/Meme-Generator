@@ -18,23 +18,20 @@ This project is part of the **React** course from [Scrimba](https://scrimba.com/
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/meme-generator.git
-Navigate to the project folder:
-bash
-Copiar código
-cd meme-generator
-Install the dependencies:
-bash
-Copiar código
-npm install
-Start the development server:
-bash
-Copiar código
-npm run dev
-How to Use
-Select a meme template from the dropdown.
-Add your custom text in the input fields.
-Click "Generate Meme" to see the result.
-Contributing
+3. Navigate to the project folder:
+   ```bash
+   cd meme-generator
+4. Install the dependencies:
+   ```bash
+   npm install
+5. Start the development server:
+   ```bash
+   npm run dev
+   
+## Setup Instructions
+1. Select a meme template from the dropdown.
+2. Add your custom text in the input fields.
+3. Click "Generate Meme" to see the result.
+ 
+## Contributing
 Feel free to fork the repository and make contributions. All kinds of feedback are welcome!
-
-This project was built as part of the Scrimba React course. Special thanks to the Scrimba team for providing such a great learning platform!
