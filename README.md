@@ -17,7 +17,7 @@ This project is part of the **React** course from [Scrimba](https://scrimba.com/
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/meme-generator.git
+   git clone https://github.com/xMarioOP/meme-generator.git
 3. Navigate to the project folder:
    ```bash
    cd meme-generator
@@ -28,7 +28,7 @@ This project is part of the **React** course from [Scrimba](https://scrimba.com/
    ```bash
    npm run dev
    
-## Setup Instructions
+## How to use
 1. Select a meme template from the dropdown.
 2. Add your custom text in the input fields.
 3. Click "Generate Meme" to see the result.
